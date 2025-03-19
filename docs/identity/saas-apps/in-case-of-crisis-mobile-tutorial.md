@@ -82,7 +82,7 @@ Follow these steps to enable Microsoft Entra SSO.
 
 	![Screenshot shows the Certificate download link.](common/certificatebase64.png "Certificate")
 
-6. On the **Set up In Case of Crisis - Mobile.** section, copy the appropriate URL(s) as per your requirement.
+6. On the **Set up In Case of Crisis - Mobile.** section, copy the Client Access URL as per your requirement.
 
 	![Screenshot shows to copy configuration appropriate URL.](common/copy-configuration-urls.png "Attributes")
 
